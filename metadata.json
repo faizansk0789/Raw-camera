@@ -1,0 +1,6 @@
+{
+  "name": "Aperture Pro",
+  "description": "Professional manual Camera2 photography and video recording app with full manual controls and RAW DNG capture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

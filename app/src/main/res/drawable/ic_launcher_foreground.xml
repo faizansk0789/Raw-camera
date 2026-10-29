@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Aperture Iris Blades inside safe zone (centered at 54, 54) -->
+    <!-- Blade 1 -->
+    <path
+        android:fillColor="#E6EDF3"
+        android:pathData="M54,32 L68,46 L58,54 L44,40 Z" />
+    <!-- Blade 2 -->
+    <path
+        android:fillColor="#D0D7DE"
+        android:pathData="M68,46 L76,64 L64,68 L56,50 Z" />
+    <!-- Blade 3 -->
+    <path
+        android:fillColor="#B1BAC4"
+        android:pathData="M76,64 L62,76 L52,66 L66,54 Z" />
+    <!-- Blade 4 -->
+    <path
+        android:fillColor="#8B949E"
+        android:pathData="M62,76 L40,76 L46,62 L68,62 Z" />
+    <!-- Blade 5 -->
+    <path
+        android:fillColor="#6E7681"
+        android:pathData="M40,76 L32,58 L44,54 L52,72 Z" />
+    <!-- Blade 6 -->
+    <path
+        android:fillColor="#D0D7DE"
+        android:pathData="M32,58 L46,40 L56,50 L42,68 Z" />
+    <!-- Center aperture opening in warm amber -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M50,50 L58,50 L62,56 L58,62 L50,62 L46,56 Z" />
+    <!-- Focus tick marks -->
+    <path
+        android:strokeColor="#E5A93C"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,26 L54,30" />
+    <path
+        android:strokeColor="#8B949E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M74,34 L71,37" />
+    <path
+        android:strokeColor="#8B949E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M82,54 L78,54" />
+    <path
+        android:strokeColor="#8B949E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M74,74 L71,71" />
+    <path
+        android:strokeColor="#8B949E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,34 L37,37" />
+    <path
+        android:strokeColor="#8B949E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M26,54 L30,54" />
+    <path
+        android:strokeColor="#8B949E"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,74 L37,71" />
+</vector>
